@@ -1,0 +1,22 @@
+.sprites, .User-copy 2, .Locked-2{
+	background: url(sprites.png) no-repeat;
+}
+
+.sprites{
+	background-position: 0 0;
+	width: 25px;
+	height: 214px;
+}
+
+.User-copy 2{
+	background-position: 0 -235px ;
+	width: 15px;
+	height: 15px;
+}
+
+.Locked-2{
+	background-position: 0 -275px ;
+	width: 15px;
+	height: 17px;
+}
+
